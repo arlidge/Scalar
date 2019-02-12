@@ -11,4 +11,6 @@ This should just work as is, becasue it is using cdnjs.com to get the p5 librari
 
 To return to the starting colours just press any non programmed key. 
 
+Massive shout out to Daniel Shiffman. Without his efforts I would have given up before I started. 
+
 
